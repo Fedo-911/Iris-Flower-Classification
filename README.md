@@ -3,10 +3,11 @@
 This project classifies Iris flowers into three species (**Setosa**, **Versicolor**, **Virginica**) using the famous [Iris dataset from Kaggle](https://www.kaggle.com/datasets/uciml/iris).  
 It uses machine learning to predict the species based on flower measurements like **sepal length, sepal width, petal length, and petal width**.
 
+## 🔗 Quick Links
+- 🚀 **Live App**: [Iris Flower Classifier](https://github.com/Fedo-911/Iris-Flower-Classification)  
+- 📓 **Training Notebook**: [Iris Flower Training Notebook](https://github.com/Fedo-911/iris-flower-classification/blob/main/Notebooks/Iris_Flower_Classification.ipynb)  
+- 📊 **Dataset (Kaggle)**: [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris) 
 
-
-## 🚀 Live Demo
-👉 Try the app here: [Iris Flower Classifier](https://iris-flower-classification-fardeen.streamlit.app/)
 
 
 ## 🚀 Project Workflow
@@ -49,6 +50,12 @@ iris-flower-classification/
 │── requirements.txt # Dependencies
 
 │── README.md # Project documentation
+
+│
+
+└── Notebooks/
+
+└── Iris_Flower_Classification.ipynb   # Model training notebook
 
 
 
