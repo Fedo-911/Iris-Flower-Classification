@@ -4,7 +4,7 @@ This project classifies Iris flowers into three species (**Setosa**, **Versicolo
 It uses machine learning to predict the species based on flower measurements like **sepal length, sepal width, petal length, and petal width**.
 
 ## 🔗 Quick Links
-- 🚀 **Live App**: [Iris Flower Classifier](https://github.com/Fedo-911/Iris-Flower-Classification)  
+- 🚀 **Live App**: [Iris Flower Classifier](https://iris-flower-classification-fardeen.streamlit.app/)  
 - 📓 **Training Notebook**: [Iris Flower Training Notebook](https://github.com/Fedo-911/iris-flower-classification/blob/main/Notebooks/Iris_Flower_Classification.ipynb)  
 - 📊 **Dataset (Kaggle)**: [Iris Dataset](https://www.kaggle.com/datasets/uciml/iris) 
 
